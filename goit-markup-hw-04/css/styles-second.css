@@ -217,7 +217,7 @@ svg {
   margin-bottom: 30px;
 }
 .project-image {
-  margin-bottom: -5px;
+  margin-bottom: -1px;
   display: block;
 }
 .project:nth-child(3n) {
