@@ -216,6 +216,10 @@ svg {
   margin-right: 2.5%;
   margin-bottom: 30px;
 }
+.project-image {
+  margin-bottom: -1px;
+  display: block;
+}
 .project:nth-child(3n) {
   margin-right: 0px;
 }
@@ -233,9 +237,13 @@ svg {
   padding: 20px 23px 19px 23px;
   text-decoration: none;
   flex-direction: column;
-  display: flex;
-  border: 1px solid #EEEEEE;
+  display: block;
+  border-color: #eeeeee;
+  border-style: solid;
   border-top: 0px;
+  border-left: 1;
+  border-right: 1;
+  border-bottom: 1;
 }
 .project-name {
   font-size: 18px;
