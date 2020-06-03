@@ -243,7 +243,7 @@ svg {
   border-top: 0px;
   border-left: 1;
   border-right: 1;
-  border-bottom: 1px;
+  border-bottom: 1;
 }
 .project-name {
   font-size: 18px;
