@@ -230,10 +230,12 @@ svg {
 }
 .card-description {
   width: 370px;
-  padding: 20px 24px;
+  padding: 20px 23px 19px 23px;
   text-decoration: none;
   flex-direction: column;
   display: flex;
+  border: 1px solid #EEEEEE;
+  border-top: 0px;
 }
 .project-name {
   font-size: 18px;
